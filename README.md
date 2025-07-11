@@ -14,3 +14,6 @@ exemplo de exp.txt:
 [0]=[1]+[2]            ;a linha 1 será somada da linha 2 e colocada na linha 0
 [2]=1-[3]              ;a contante 1 será diminuida da linha 3 e colocada na linha 2
 
+
+será colocado exemplos de txts também 
+
