@@ -15,5 +15,4 @@ exemplo de exp.txt:
 [2]=1-[3]              ;a contante 1 será diminuida da linha 3 e colocada na linha 2
 
 
-será colocado exemplos de txts também 
-
+será também anexado exemplos de txts
